@@ -24,11 +24,7 @@ class Monopoly(Game):
 class Scabble(Game):
     def __init__(self, num_players, curent_player, winner, turn_counter):
         super().__init__(num_players, curent_player, winner, turn_counter)
-        self.
-        self.
-        self.
-        self.
-
+        
 
 
 
